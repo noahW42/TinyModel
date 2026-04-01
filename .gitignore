@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 
 # Model weights (too large for GitHub)
+hf_finetuned/checkpoint-300/
 hf_finetuned/checkpoint-307/
 hf_finetuned/model.safetensors
 hf_finetuned/training_args.bin
