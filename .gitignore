@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Model weights (too large for GitHub)
+hf_finetuned/checkpoint-307/
+hf_finetuned/model.safetensors
+hf_finetuned/training_args.bin
+tiny_model.pth
+
+# Cached tokenizer
+cached_lm_GPT2TokenizerFast_128_data.txt
+# Logs
+*.docx
